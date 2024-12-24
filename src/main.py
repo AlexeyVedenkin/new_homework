@@ -1,4 +1,5 @@
 from func import *
 
 
-print(text_reverse('1234567890'))
+if __name__ == '__main__':
+    print(text_reverse('Hello, World!'))
